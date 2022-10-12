@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.donotVerifyTags": true,
+  "git.followTagsWhenSync": true,
+  "editor.linkedEditing": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "files.autoSave": "afterDelay"
+}
