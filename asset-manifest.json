@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloneyou/static/css/main.6ff6134d.css",
+    "main.js": "/cloneyou/static/js/main.8cbc0b2a.js",
+    "static/js/787.a3118e53.chunk.js": "/cloneyou/static/js/787.a3118e53.chunk.js",
+    "index.html": "/cloneyou/index.html",
+    "main.6ff6134d.css.map": "/cloneyou/static/css/main.6ff6134d.css.map",
+    "main.8cbc0b2a.js.map": "/cloneyou/static/js/main.8cbc0b2a.js.map",
+    "787.a3118e53.chunk.js.map": "/cloneyou/static/js/787.a3118e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff6134d.css",
+    "static/js/main.8cbc0b2a.js"
+  ]
+}
